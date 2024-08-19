@@ -19,6 +19,6 @@ Como **profesor universitario en teorías musicales** y **compositor**, tengo un
 ### 📬 Contáctame
 
 - **Correo Electrónico:** [germansartori108@gmail.com)
-- **LinkedIn:** [[Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/german-sartori/))
+- **LinkedIn:** [[in/german-sartori](https://www.linkedin.com/in/german-sartori/)]
 
 ¡Gracias por visitar mi perfil! Si estás interesado en colaborar o aprender más sobre mis proyectos, no dudes en contactarme.
