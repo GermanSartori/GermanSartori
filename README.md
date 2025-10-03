@@ -6,8 +6,8 @@ Soy Germán Sartori, iniciando con mucha energía en el mundo de la **Ciencia de
 
 ### 📊 Ciencia de Datos
 
-- **Formación:** Actualmente estoy finalizando mis estudios en **Henry**.
-- **Skills:** Python, SQL, PowerBi, Tableau, GCP, Docker.
+- **Formación:** Data Scientist en **Henry Bootcamp**.
+- **Skills:** Python, SQL, Looker, GCP, Docker.
 
 ### 🎹 Experiencia Musical
 
